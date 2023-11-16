@@ -37,3 +37,5 @@ https://www.emailjs.com/
 
 //react vertical component para colocar um descritivo de itens alternando de um lado para outro
 npm i react-vertical-timeline-component
+
+npm run build
