@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio interativo! Explore a minha ilha 3D, onde você pode
 
 ## Acesse meu Portfólio 🗒️
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acesse%20Aqui-brightgreen)](https://mateusvergennes-portfolio.com/)/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acesse%20Aqui-brightgreen)](https://mateusvergennes-portfolio.com/)
 
 ## Tecnologias Utilizadas
 
