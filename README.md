@@ -1,8 +1,34 @@
-# React + Vite
+# Portfólio de Mateus Vergennes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu portfólio interativo! Explore a minha ilha 3D, onde você pode girar a paisagem e fazer um avião voar pela web.
 
-Currently, two official plugins are available:
+## Acesse meu Portfólio 🗒️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acesse%20Aqui-brightgreen)](https://mateusvergennes-portfolio.com/)/)
+
+## Tecnologias Utilizadas
+
+- Vite
+- React
+- JavaScript
+
+## Experiências Profissionais
+
+## Como Interagir com o Site
+
+1. **Gire a Ilha:**
+   - Arraste o cursor para girar a paisagem da ilha. 🔄
+   - Explore diferentes ângulos e descubra detalhes ocultos!
+
+2. **Faça o Avião Voar:**
+   - Interaja com arrastando o cursor para girar a paisagem da ilha. ✈️
+   - Faça o avião dar voltas emocionantes!
+
+## Contato
+
+- Email: mateus.vergennes@email.com 📧
+- LinkedIn: [![Mateus Vergennes](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mateusvergennes/) 💼
+
+## Licença
+
+Este projeto é licenciado sob MIT. [![Licença](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
