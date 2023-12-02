@@ -111,42 +111,43 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "C/C++ developer",
+        company_name: "CNPq",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "January 2017- December 2020",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Developing and maintaining Computer applications using C++ and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Participating Coding in a development of simulation .",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
+        title: "Automation Development",
+        company_name: "Support Automacao Industrial",
         icon: tesla,
         iconBg: "#90EE90",
-        date: "Jan 2021 - Feb 2022",
+        date: "Jan 2020 - October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Developing and maintaining Automation applications using PLCs, HMIs, and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Participating in the development of a particle collision simulation application.",
+            "Coding with ST, C++.",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
+        title: "Web Fullstack Developer",
+        company_name: "WEG",
         icon: shopify,
         iconBg: "#a2d2ff",
-        date: "Jan 2022 - Jan 2023",
+        date: "November 2023 - Today",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Participating coding with Nextjs, Java SpringBoot, React, Typescript, Javascript.",
         ],
     }
 ];
